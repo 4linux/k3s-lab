@@ -1,0 +1,6 @@
+- name: k3s-master
+  cpus: 1
+  memory: 2048
+  hostname: k3s-master.4labs
+  ip: 192.168.200.100
+  system: ubuntu/bionic64
