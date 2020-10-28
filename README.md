@@ -1,6 +1,6 @@
 # Wordpress no cluster K3s
 
-Vagrantfile para criação do laboratório para criação do cluster K3s.
+Projeto para instalar um cluster kubernetes leve e poucos minutos e nele provisionar um Wordpress.
 
 
 
