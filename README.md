@@ -99,8 +99,8 @@ sudo kubectl get svc traefik -n kube-system
 ```
 
 ```
-NAME   TYPE      CLUSTER-IP   EXTERNAL-IP    PORT(S)           AGE
-traefik  LoadBalancer  10.43.46.222  192.168.200.100  80:31740/TCP,443:32648/TCP  4h
+NAME    TYPE         CLUSTER-IP   EXTERNAL-IP     PORT(S)                     AGE
+traefik LoadBalancer 10.43.46.222 192.168.200.100 80:31740/TCP,443:32648/TCP  4h
 ```
 
 
