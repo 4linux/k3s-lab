@@ -1,6 +1,6 @@
 # Wordpress no cluster K3s
 
-Projeto para instalar um cluster kubernetes leve e poucos minutos e nele provisionar um Wordpress.
+Projeto para instalar um cluster kubernetes leve em poucos minutos, e nele provisionar um Wordpress.
 
 
 
