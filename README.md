@@ -4,6 +4,16 @@ Vagrantfile para criação do laboratório para criação do cluster K3s.
 
 
 
+## Preparando o ambiente
+
+Antes de iniciar o laboratório, é preciso instalar as seguintes aplicações:
+
+1. [Git](https://git-scm.com)
+2. [VirtualBox](https://www.virtualbox.org)
+3. [Vagrant](https://www.vagrantup.com)
+
+
+
 ## Iniciar o laboratório
 
 Faça o download dos arquivos disponíveis neste projeto através do **git**:
