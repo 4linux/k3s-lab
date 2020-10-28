@@ -117,7 +117,7 @@ traefik LoadBalancer 10.43.46.222 192.168.200.100 80:31740/TCP,443:32648/TCP  4h
 
 ## Acessar a aplicação Wordpress no cluster K3s
 
-Adicione uma entrada no arquivo **/etc/hosts** em sua máquina física, apontando para o IP 192.168.200.100, o domínio **wordpress.4labs.example**:
+Adicione uma entrada no arquivo **/etc/hosts** em sua máquina física, apontando para o IP 192.168.200.100, o domínio [wordpress.4labs.example](http://wordpress.4labs.example):
 
 **No Linux e Mac**
 
