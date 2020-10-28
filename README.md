@@ -52,7 +52,7 @@ Execute o comando que cria o cluster Kubernetes com K3S:
 sudo curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="server --flannel-iface enp0s8" sh -
 ```
 
-Após 30 segundos verifique se você já possui um cluster Kubernetes:
+Após alguns segundos verifique se você já possui um cluster Kubernetes:
 
 ```
 sudo kubectl get nodes
